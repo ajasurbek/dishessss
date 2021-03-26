@@ -1,0 +1,22 @@
+
+.app {
+    display: flex;
+    width: 100%;
+    max-width: 1194px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.bg {
+  height: 800px;
+  width: 1090px;
+  background-color: #252836;
+}
+body {
+    margin: 0;
+    font-family: 'Barlow', 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: rgba(64, 61, 81, 1);
+  }
